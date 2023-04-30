@@ -1,4 +1,4 @@
-# A builder, in the process of setting up a digital consultancy - [rabbittx](https://www.rabbittx.com).
+# Keen and motivated developer, with solid experience in Fintech, Energy and ECommerce - [rabbittx](https://www.rabbittx.com).
 
 ---
 
