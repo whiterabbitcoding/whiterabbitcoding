@@ -34,6 +34,6 @@ A writing companion
 
 ``` python one liners ```
 
-### Something I hate - 
+### Something I (dislike) hate - 
 
 ``` number of operaters in JS ```
