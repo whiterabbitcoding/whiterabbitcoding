@@ -4,9 +4,9 @@
 
 ## Current projects:  
 
-NFT Dashboard on Solana
+NFT Dashboard on Solana ( currently private )
 
-Ecommerce store with React and FastAPI
+Ecommerce store with React and FastAPI - live [backend](http://ecommerce-api-alb-1708902573.eu-west-1.elb.amazonaws.com/docs) / [frontend](https://ecommerce.rabbittx.com) ( incomplete )
 
 Automated social media tools
 
