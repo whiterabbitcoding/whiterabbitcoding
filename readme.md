@@ -1,4 +1,4 @@
-# A Keen and motivated developer with experience across Fintech, Energy and ECommerce - [rabbittx](https://www.rabbittx.com).
+# A Keen and motivated developer with experience across Fintech, Energy and Ecommerce - [rabbittx](https://www.rabbittx.com).
 
 ---
 
