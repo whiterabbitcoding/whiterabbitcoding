@@ -16,17 +16,19 @@ A writing companion
 
 ## A summarised library of tools I have used so far:
 
-**Languages:** Python, JS / TS, Rust, Go
+**Languages:** Python, JS / TS, Rust
 
 **Backend Web frameworks:** FastAPI, Django, Flask, Node
 
 **Databases:** Postgres, Mongo, Redis, SQLLite, Spark
 
-**Frontend Web Frameworks:** Chakra, Material, Nextjs, Vue
+**Frontend Web Frameworks:** React, Vue, NextJS
+
+**UI Libraries:** ChakraUI, MaterialUI, Bootstrap
 
 **Cloud Providers:** AWS, GCP
 
-**Block Chains:** Solana, Ethereum
+**Blockchains:** Solana, Ethereum
 
 ---
 
@@ -34,6 +36,6 @@ A writing companion
 
 ``` python one liners ```
 
-### Something I (dislike) hate - 
+### Something I'm trying to dislike less - 
 
 ``` number of operaters in JS ```
